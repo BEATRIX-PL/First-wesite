@@ -1,0 +1,25 @@
+.child{
+    position: relative;
+    right: 40px;
+    bottom: 930px;
+    background-color: antiquewhite;
+    width: 10%;
+    height: 3000px;
+}
+
+.side{
+    position: relative;
+    left: 1200px;
+    bottom: 3940px;
+    background-color: antiquewhite;
+    width: 16%;
+    height: 3000px;
+    
+}
+
+.toop{
+    position: relative;
+    left: 800px;
+    top: 1000px;
+    color: red;
+}
